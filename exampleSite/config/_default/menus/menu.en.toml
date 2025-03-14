@@ -16,7 +16,7 @@
 
 [[main]]
   name = "Sobre"
-  weight = 3
+  weight = 4
   url = "sobre/"
 
 # [[main]]
