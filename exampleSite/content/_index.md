@@ -24,7 +24,7 @@ You can generate diagrams, flowcharts, and piecharts from text in a similar mann
 Or, [generate graphs, charts](docs/compose/graphs-charts-tables/#show-a-pie-doughnut--bar-chart-at-once) and tables from a csv, ~~or a json~~ file.
 {{< /tip >}}
 
-{{< button "docs/compose/" "Read the Docs" >}}{{< button "https://github.com/onweru/compose" "Download Theme" >}}
+{{< button "docs/compose/" "Entre em Contato" >}}{{< button "https://github.com/onweru/compose" "Download Theme" >}}
 {{< /column >}}
 
 {{< column >}}
