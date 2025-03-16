@@ -8,6 +8,9 @@ acalma-se; mas embora se satisfaça um, quantos permanecem insaciados!
 > > — Arthur Schopenhauer, On the Suffering of the World (1850)
 
 
+{{< column >}}
+![diy](/images/profile/profile.png)    
+{{< /column >}}
 
 Desde o início da minha trajetória na tecnologia, sempre fui apaixonado por solucionar problemas e criar soluções eficientes. Comecei minha carreira como programador, desenvolvendo sistemas e aprimorando minhas habilidades em diversas linguagens de programação. Com o tempo, percebi que além de escrever códigos, minha verdadeira vocação era garantir que pessoas e empresas tivessem suporte tecnológico de qualidade e confiança.  
 
