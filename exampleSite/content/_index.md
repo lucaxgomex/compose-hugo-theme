@@ -11,7 +11,7 @@ title = "Projects"
 {{< block "grid-2" >}}
 {{< column >}}
 
-# Compose your Docs with **Ease**.
+# Rápido. Prático. **Eficiente.**
 
 Compose is a lean `Hugo` documentation theme, inspired by [forestry.io](https://forestry.io/docs/welcome/).
 
@@ -28,6 +28,6 @@ Or, [generate graphs, charts](docs/compose/graphs-charts-tables/#show-a-pie-doug
 {{< /column >}}
 
 {{< column >}}
-![diy](/images/scribble.jpg)
+![diy](images/home/home-picture.png)
 {{< /column >}}
 {{< /block >}}
