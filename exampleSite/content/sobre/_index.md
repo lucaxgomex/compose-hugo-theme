@@ -20,6 +20,9 @@ Nosso objetivo é simplificar o dia a dia dos nossos clientes, garantindo que su
 
 ------------------------------------------------------------------------------------
 
+{{< tip "warning" >}}
+Feel free to open a [PR](https://github.com/onweru/compose/pulls), raise an [issue](https://github.com/onweru/compose/issues/new/choose "Open a Github Issue")(s) or request new feature(s). {{< /tip >}}
+
 CONTACTS
 - WhatsApp
 - E-mail

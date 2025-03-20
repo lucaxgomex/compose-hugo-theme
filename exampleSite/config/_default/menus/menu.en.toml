@@ -10,9 +10,9 @@
   url = "docs/"
 
 [[main]]
-  name = "Tutorials"
+  name = "Serviços"
   weight = 2
-  url = "tutorials/"
+  url = "services/"
 
 [[main]]
   name = "Sobre"
