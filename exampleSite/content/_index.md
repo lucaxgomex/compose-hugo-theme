@@ -8,7 +8,7 @@ fileLink = "content/projects.csv"
 title = "Projects"
 +++
 
-{{< block "grid-2" >}}
+{{< block "grid-3" >}}
 {{< column >}}
 
 # Rápido. Prático. **Eficiente.**
