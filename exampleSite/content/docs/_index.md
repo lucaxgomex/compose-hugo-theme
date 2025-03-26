@@ -1,5 +1,5 @@
 +++
-title = "Themes' Docs"
+title = "Redes Sociais"
 weight = 1
 +++
 
