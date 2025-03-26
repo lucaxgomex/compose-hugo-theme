@@ -1,5 +1,5 @@
 # use the setting below to set multiple docs directories.
-docSections = ["docs", "tutorials", "sobre", "blog"]
+docSections = ["services", "docs", "sobre", "contact"]
 
 uniqueHomePage = true # change to false to add sidebar to homepage
 
@@ -42,8 +42,8 @@ key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
   lightMode = "images/compose.svg"
   darkMode = "images/compose-light.svg"
 
-[source]
-  name = "GitHub"
-  iconLight = "images/GitHubMarkLight.svg"
-  iconDark = "images/GitHubMarkDark.svg"
-  url = "https://github.com/onweru/compose/"
+# [source]
+#   name = "GitHub"
+#   iconLight = "images/GitHubMarkLight.svg"
+#   iconDark = "images/GitHubMarkDark.svg"
+#   url = "https://github.com/onweru/compose/"
