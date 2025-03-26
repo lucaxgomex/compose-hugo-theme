@@ -1,25 +1,21 @@
 #  menu items
 [[main]]
-  name = "Blog"
-  weight = 5
+  name = "Serviços"
+  weight = 1
+  url = "tutorials/"
+
+
+[[main]]
+  name = "Contatos"
+  weight = 2
   url = "blog/"
 
 [[main]]
-  name = "Docs"
-  weight = 2
+  name = "Redes Sociais"
+  weight = 3
   url = "docs/"
-
-[[main]]
-  name = "Serviços"
-  weight = 2
-  url = "services/"
 
 [[main]]
   name = "Sobre"
   weight = 4
   url = "sobre/"
-
-# [[main]]
-#   name = "Blog"
-#   weight = 4
-#   url = "blog/"
