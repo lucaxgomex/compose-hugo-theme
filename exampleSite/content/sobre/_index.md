@@ -24,21 +24,6 @@ Nosso objetivo é simplificar o dia a dia dos nossos clientes, garantindo que su
 
 ------------------------------------------------------------------------------------
 
-{{< tip "warning" >}}
-
-Prezado(a) cliente,
-
-Caso você apresente alguma requisição de caráter mais específico que não encontra-se listada em nossa relação de ocorrências acima, por gentileza, é preciso que você entre em contato conosco por meio da aba de Contatos.
-
-No caso de você está de posse de um de nossos cartões de visita, também será possível entrar em contato conosco através do número informado, de modo que seja permitido realizar uma simulação de valores mediante à sua demanda.
-
-Estamos no aguardo de seu contato!
-
-Cordialmente,
-
-Time de suporte da LunixGo.
-
-{{< /tip >}}
 
 CONTACTS
 - WhatsApp
