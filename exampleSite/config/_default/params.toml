@@ -27,20 +27,11 @@ otherSearchableFields = ["Tags", "Categories", "CustomField"] # As they appear i
 # Enable copyRight Footer Stamp. Takes in attribution
 enableCopyright = false
 
-# search
-[search]
-on = true
-global = false # turn to `true` to enable global search
-[search.algolia]
-enable = false # if false search will default to fusejs
-id = "Q40WQQX84U" # Application ID
-index = "compose" # Index name
-key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
 
 # Site logo
 [logo]
-  lightMode = "images/compose.svg"
-  darkMode = "images/compose-light.svg"
+   lightMode = "images/logo.svg"
+   darkMode = "images/logo.svg"
 
 # [source]
 #   name = "GitHub"
