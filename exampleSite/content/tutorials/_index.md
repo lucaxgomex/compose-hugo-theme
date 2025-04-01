@@ -42,7 +42,7 @@ Desde já lhe agradeço pela compreensão!
 
 - Montagem de nobreak/estabilizadores: <span style="color:#5aca48">R$ 50,00</span>
 
-- Atualização de drivers: <span style="color:#5aca48">R$ 10,00</span>
+- Atualização de _drivers_: <span style="color:#5aca48">R$ 10,00</span>
 
 - Liberação do pacote Office 365: <span style="color:#5aca48">R$ 75,00</span>
 
@@ -88,35 +88,36 @@ Desde já lhe agradeço pela compreensão!
 
 - Demais demandas: <span style="color:#5aca48">Valor a combinar</span>
 
-<h2>
-    <span style="color:#5aca48">Suporte para rede</span>
-</h2>
+<center>
+    <h2>
+        <span style="color:#5aca48">Suporte para rede</span>
+    </h2>
+</center>
 
-- Equipamento sem internet: R$ 10,00
+- Equipamento sem internet: <span style="color:#5aca48">R$ 10,00</span>
 
-- Roteador sem internet: R$ 15,00
+- Roteador sem internet: <span style="color:#5aca48">R$ 15,00</span>
 
-- Instalação de roteador: R$ 30,00
+- Instalação de roteador: <span style="color:#5aca48">R$ 30,00</span>
 
-- Troca de roteador: R$ 15,00
+- Troca de roteador: <span style="color:#5aca48">R$ 15,00</span>
 
-- Bloqueio/desbloqueio de site: R$ 10,00
+- Bloqueio/desbloqueio de site: <span style="color:#5aca48">R$ 10,00</span>
 
-- Controle parental: R$ 10,00
+- Controle parental: <span style="color:#5aca48">R$ 10,00</span>
 
-- Troca de cabos: R$ 20,00
+- Troca de cabos: <span style="color:#5aca48">R$ 20,00</span>
 
-- Clipagem de cabo Ethernet: R$ 15,00
+- Clipagem de cabo Ethernet: <span style="color:#5aca48">R$ 15,00</span>
 
-- Instalação de repetidores: R$ 75,00
-
-- Varredura de virus (medidas de segurança)
+- Instalação de repetidores: <span style="color:#5aca48">R$ 75,00</span>
 
 - Demais demandas: <span style="color:#5aca48">Valor a combinar</span>
 
 <h2>
     <span style="color:#5aca48">Medidas de segurança</span>
 </h2>
+- Varredura de virus (medidas de segurança)
 
 <h2>
     <span style="color:#5aca48">Atividades de desenvolvimento</span>
@@ -139,8 +140,7 @@ Estamos no aguardo de seu contato!
 
 Cordialmente,
 
-Time de suporte da LunixGo.
-
+Time de suporte da LunixGo. 
 {{< /tip >}}
 
 <!-- {{< button "./example" "Tutorials" "mb-1" >}} -->
