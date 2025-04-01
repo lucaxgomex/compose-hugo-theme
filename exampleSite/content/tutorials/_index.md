@@ -3,81 +3,128 @@ title = "Serviços"
 weight = 1
 +++
 
-### Suporte para computadores
+<!-- ### Suporte para computadores -->
 
-- Formatação de sistema operacional...R$ 120,00
+<center>
+    <h2>
+        <span style="color:#b8860b">Disclaimer</span>
+    </h2>
+</center>
+
+{{< tip "warning" >}}
+
+Prezado(a) cliente,
+
+É com muita honestidade que nosso time lhe informa que, até o dado momento, **NÃO** estamos trabalhando com manutenção, reparo ou trocas de _displays_, seja para celular, monitores ou computadores pessoais.
+
+Desde já lhe agradeço pela compreensão!
+
+{{< /tip >}}
 
 
-- Troca de HDD / SSD / NVMe...........R$ 100,00
+<center>
+    <h2>
+        <span style="color:#489f3a">Suporte para computadores</span>
+    </h2>
+</center>
 
-- Clonagem de sistema operacional.....R$ 100,00
+- Formatação de sistema operacional: <span style="color:#5aca48">R$ 120,00</span>
 
-- Soldagem............................R$ 75,00
+- Troca de HDD / SSD / NVMe: <span style="color:#5aca48">R$ 100,00</span>
 
-- Montagem de peças...................R$ 45,00
+- Clonagem de sistema operacional: <span style="color:#5aca48">R$ 100,00</span>
 
-- Montagem de PC......................R$ 360,00
+- Soldagem: <span style="color:#5aca48">R$ 75,00</span>
 
-- Montagem de nobreak/estabilizadores.R$ 50,00
+- Montagem de peças: <span style="color:#5aca48">R$ 45,00</span>
 
-- Atualização de drivers..............R$ 10,00
+- Montagem de PC: <span style="color:#5aca48">R$ 360,00</span>
 
-- Liberação do pacote Office 365......R$ 75,00
+- Montagem de nobreak/estabilizadores: <span style="color:#5aca48">R$ 50,00</span>
 
-- Problmas envolvendo lentidão........R$ Necessária análise prévia
+- Atualização de drivers: <span style="color:#5aca48">R$ 10,00</span>
 
-- Limpeza de memória..................R$ 5,00
+- Liberação do pacote Office 365: <span style="color:#5aca48">R$ 75,00</span>
 
-- Problemas na placa-mãe..............R$ 30,00
+- Limpeza de memória: <span style="color:#5aca48">R$ 5,00</span>
 
-- Problemas internos..................R$ 15,00
+- Problemas na placa-mãe: <span style="color:#5aca48">R$ 30,00</span>
 
-- Outros..............................R$ Valores a combinar
+- Problemas internos: <span style="color:#5aca48">R$ 15,00</span>
 
-### Suporte para celulares
+- Problmas envolvendo lentidão: <span style="color:#5aca48">Necessária análise prévia</span>
 
-### Suporte para equipamento
+- Demais demandas: <span style="color:#5aca48">Valor a combinar</span>
 
-# 1) Impressora
+<center>
+    <h2>
+        <span style="color:#5aca48">Suporte para celulares</span>
+    </h2>
+</center>
 
-- Instalação de impressora.........R$ 190,00
+- Formatação: <span style="color:#5aca48">R$ 40,00</span>
 
-- Troca de cartuchos...............R$ 25,00
+- Troca de película: <span style="color:#5aca48">R$ 5,00</span>
 
-- Limpeza..........................R$ 60,00
+- Problemas de lentidão: <span style="color:#5aca48">Valor a combinar</span>
 
-- Papel enganchado / atolado.......R$ 15,00
+- Demais demandas: <span style="color:#5aca48">Valor a combinar</span>
 
-- Demais demandas..................A combinar
+<center>
+    <h2>
+        <span style="color:#5aca48">Suporte para impressora</span>
+    </h2>
+</center>
 
-### Suporte para rede
+- Instalação de impressora: <span style="color:#5aca48">R$ 190,00</span>
 
-- Equipamento sem internet.........R$ 10,00
+- Troca de cartuchos: <span style="color:#5aca48">R$ 25,00</span>
 
-- Roteador sem internet............R$ 15,00
+- Troca de _toner_: <span style="color:#5aca48">R$ 25,00</span>
 
-- Instalação de roteador...........R$ 30,00
+- Limpeza: <span style="color:#5aca48">R$ 60,00</span>
 
-- Troca de roteador................R$ 15,00
+- Papel enganchando / atolando: <span style="color:#5aca48">R$ 15,00</span>
 
-- Bloqueio/desbloqueio de site.....R$ 10,00
+- Demais demandas: <span style="color:#5aca48">Valor a combinar</span>
 
-- Controle parental................R$ 10,00
+<h2>
+    <span style="color:#5aca48">Suporte para rede</span>
+</h2>
 
-- Troca de cabos...................R$ 20,00
+- Equipamento sem internet: R$ 10,00
 
-- Clipagem de cabo Ethernet........R$ 15,00
+- Roteador sem internet: R$ 15,00
 
-- Instalação de repetidores........R$ 75,00
+- Instalação de roteador: R$ 30,00
+
+- Troca de roteador: R$ 15,00
+
+- Bloqueio/desbloqueio de site: R$ 10,00
+
+- Controle parental: R$ 10,00
+
+- Troca de cabos: R$ 20,00
+
+- Clipagem de cabo Ethernet: R$ 15,00
+
+- Instalação de repetidores: R$ 75,00
 
 - Varredura de virus (medidas de segurança)
 
+- Demais demandas: <span style="color:#5aca48">Valor a combinar</span>
 
-### Medidas de segurança
+<h2>
+    <span style="color:#5aca48">Medidas de segurança</span>
+</h2>
 
-### Atividades de desenvolvimento
+<h2>
+    <span style="color:#5aca48">Atividades de desenvolvimento</span>
+</h2>
 
-### Demais atividades
+<h2>
+    <span style="color:#5aca48">Demais atividades</span>
+</h2>
 
 
 {{< tip "warning" >}}
@@ -94,13 +141,8 @@ Cordialmente,
 
 Time de suporte da LunixGo.
 
-
-
 {{< /tip >}}
 
+<!-- {{< button "./example" "Tutorials" "mb-1" >}} -->
 
-<!-- That content is better than dummy lorem ipsum 2) That content serves a good real-world demo for this theme 3) Publish more structured docs for each theme which are better than long blocky READMEs -->
-
-{{< button "./example" "Tutorials" "mb-1" >}}
-
-{{< button "../docs/" "Back to docs" >}}
+<!-- {{< button "../docs/" "Back to docs" >}} -->
