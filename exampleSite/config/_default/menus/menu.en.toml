@@ -8,12 +8,12 @@
 [[main]]
   name = "Contatos"
   weight = 2
-  url = "blog/"
+  url = "contact/"
 
 [[main]]
   name = "Redes Sociais"
   weight = 3
-  url = "docs/"
+  url = "social-networks/"
 
 [[main]]
   name = "Sobre"
