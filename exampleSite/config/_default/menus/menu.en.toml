@@ -2,20 +2,20 @@
 [[main]]
   name = "Serviços"
   weight = 1
-  url = "tutorials/"
+  url = "services/"
 
 
 [[main]]
   name = "Contatos"
   weight = 2
-  url = "blog/"
+  url = "contacts/"
 
 [[main]]
   name = "Redes Sociais"
   weight = 3
-  url = "docs/"
+  url = "networks/"
 
 [[main]]
   name = "Sobre"
   weight = 4
-  url = "sobre/"
+  url = "about/"
