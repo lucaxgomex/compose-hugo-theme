@@ -113,11 +113,28 @@ Desde já lhe agradeço pela compreensão!
 - Instalação de repetidores: <span style="color:#5aca48">R$ 75,00</span>
 
 - Demais demandas: <span style="color:#5aca48">Valor a combinar</span>
-
+ 
 <h2>
     <span style="color:#5aca48">Medidas de segurança</span>
 </h2>
+
 - Varredura de virus (medidas de segurança)
+
+- Demais demandas: <span style="color:#5aca48">Valor a combinar</span>
+
+{{< tip "warning" >}}
+
+Atenção!
+
+Crimes cibernéticos são configurados como sendo o uso de dados informáticos para a concretização de atos fraudulentos, tanto para pessoas físicas quanto para pessoas jurídicas. 
+
+Dentre eles, encontram-se atividades como estelionato, roubo de identidade, fraude financeira, invasão de dispositivos, _stalking_, _sextorsion_, propagação voluntária de _malware_, espionagem, entre outros.
+
+Segundo informa o Código Penal Brasileiro, a pena para a execução de crimes virtuais pode variar de entre 4 a 8 anos de reclusão.
+
+Na LunixGo, utilizamos a tecnologia para trabalhamos de acordo com o que consta na lei. Não compactuamos com ações invasivas que tendem a prejudicar o próximo a segurança de nossos clientes ou de outrem envolvidos.
+
+{{< /tip >}}
 
 <h2>
     <span style="color:#5aca48">Atividades de desenvolvimento</span>
