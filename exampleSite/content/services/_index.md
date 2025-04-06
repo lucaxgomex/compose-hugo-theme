@@ -114,11 +114,27 @@ Desde já lhe agradeço pela compreensão!
 
 - Demais demandas: <span style="color:#5aca48">Valor a combinar</span>
  
-<h2>
-    <span style="color:#5aca48">Medidas de segurança</span>
-</h2>
+<center>
+    <h2>
+        <span style="color:#5aca48">Medidas de segurança</span>
+    </h2>
+</center>
 
-- Varredura de virus (medidas de segurança)
+- Varredura completa: <span style="color:#5aca48">R$ 40,00</span>
+
+- Varredura de vírus: <span style="color:#5aca48">R$ 35,00</span>
+
+- Instalação de antivírus: <span style="color:#5aca48">R$ 20,00</span>
+
+- Configuração de servidor: <span style="color:#5aca48">R$ 175,00</span>
+
+- Recuperação de senha: <span style="color:#5aca48">R$ 40,00</span>
+
+- Recuperação de conta: <span style="color:#5aca48">R$ 75,00</span>
+
+- Recuperação de arquivos: <span style="color:#5aca48">R$ 40,00</span>
+
+- Instalação de DVR: <span style="color:#5aca48">R$ 300,00</span>
 
 - Demais demandas: <span style="color:#5aca48">Valor a combinar</span>
 
@@ -132,18 +148,37 @@ Dentre eles, encontram-se atividades como estelionato, roubo de identidade, frau
 
 Segundo informa o Código Penal Brasileiro, a pena para a execução de crimes virtuais pode variar de entre 4 a 8 anos de reclusão.
 
-Na LunixGo, utilizamos a tecnologia para trabalhamos de acordo com o que consta na lei. Não compactuamos com ações invasivas que tendem a prejudicar o próximo a segurança de nossos clientes ou de outrem envolvidos.
+Na <span style="color:#5aca48">LunixGo</span>, utilizamos a tecnologia para trabalhamos de acordo com o que consta na lei. Não compactuamos com ações invasivas que tendem a prejudicar o próximo a segurança de nossos clientes ou de outrem envolvidos.
 
 {{< /tip >}}
 
-<h2>
-    <span style="color:#5aca48">Atividades de desenvolvimento</span>
-</h2>
+<center>
+    <h2>
+        <span style="color:#5aca48">Atividades de desenvolvimento</span>
+    </h2>
+</center>
 
-<h2>
-    <span style="color:#5aca48">Demais atividades</span>
-</h2>
+- Site completo: <span style="color:#5aca48">R$ 975,00</span>
 
+- Site estático: <span style="color:#5aca48">R$ 250,00</span>
+
+- Frontend: <span style="color:#5aca48">R$ 175,00</span>
+
+- Backend: <span style="color:#5aca48">R$ 300,00</span>
+
+- Design / Protótipo: <span style="color:#5aca48">R$ 120,00</span>
+
+- Condifuração de banco de dados: <span style="color:#5aca48">R$ 350,00</span>
+
+- _Webscrapping_: <span style="color:#5aca48">R$ 55,00</span>
+
+- Demais demandas: <span style="color:#5aca48">Valor a combinar</span>
+
+<center>
+    <h2>
+        <span style="color:#5aca48">Demais atividades</span>
+    </h2>
+</center>
 
 {{< tip "warning" >}}
 
