@@ -1,5 +1,5 @@
 # use the setting below to set multiple docs directories.
-docSections = ["services", "contacts", "networks", "about"]
+docSections = ["services", "contacts", "networks", "about", "download"]
 
 uniqueHomePage = false # change to false to add sidebar to homepage
 
@@ -26,7 +26,6 @@ otherSearchableFields = ["Tags", "Categories", "CustomField"] # As they appear i
 # Defaults to true if not set
 # Enable copyRight Footer Stamp. Takes in attribution
 enableCopyright = false
-
 
 # Site logo
 [logo]
