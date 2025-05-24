@@ -1,5 +1,5 @@
 +++
-title = "LunixGO"
+title = "Compose"
 [data]
 baseChartOn = 3
 colors = ["#627c62", "#11819b", "#ef7f1a", "#4e1154"]
@@ -8,47 +8,26 @@ fileLink = "content/projects.csv"
 title = "Projects"
 +++
 
-{{< block "grid-3" >}}
+{{< block "grid-2" >}}
 {{< column >}}
 
-# Rápido. Prático. **Eficiente.**
+# Compose your Docs with **Ease**.
+
+Compose is a lean `Hugo` documentation theme, inspired by [forestry.io](https://forestry.io/docs/welcome/).
+
+{{< tip "warning" >}}
+Feel free to open a [PR](https://github.com/onweru/compose/pulls), raise an [issue](https://github.com/onweru/compose/issues/new/choose "Open a Github Issue")(s) or request new feature(s). {{< /tip >}}
 
 {{< tip >}}
-👋 Olá! Seja bem-vindo(a) à <span style="color:#5aca48">LunixGo</span>!
+You can generate diagrams, flowcharts, and piecharts from text in a similar manner as markdown using [mermaid](./docs/compose/mermaid/).
 
-Somos especialistas em reparo e manutenção de computadores, e estamos aqui para ajudar você a resolver qualquer problema técnico com rapidez e eficiência.
+Or, [generate graphs, charts](docs/compose/graphs-charts-tables/#show-a-pie-doughnut--bar-chart-at-once) and tables from a csv, ~~or a json~~ file.
 {{< /tip >}}
 
-
-{{< tip >}}
-Oferecemos diagnósticos rápidos, reparos eficientes e atualizações de hardware para garantir o máximo desempenho. Não deixe problemas técnicos atrapalharem seu dia.
-{{< /tip >}}
-
-{{< tip >}}
-
-Para agendar um atendimento ou tirar suas dúvidas, basta acessar a aba de [Serviços](http://localhost:1313/services/) para averiguar nosso valores.
-
-{{< /tip >}}
-
-{{< tip >}}
-
-Clique na aba de <span style="color:#5aca48">Cartão de Vista</span> para realizar o _download_ de um de nossos cartões virtuais.
-
-Caso queira compartilhá-lo com alguns conhecidos, ficaremos agradecidos!
-
-{{< /tip >}}
-
-{{< tip >}}
-Você também poderá clicar no botão abaixo e adiantar uma simulação de acordo com sua situação.
-
-Estamos à sua espera! 😉
-{{< /tip >}}
- 
-{{< button "https://api.whatsapp.com/send?phone=+5586999708748&text=Ol%C3%A1!%0AFiquei%20muito%20interessado(a)%20por%20seu%20trabalho%2C%20logo%20gostaria%20de%20conversar%20com%20voc%C3%AA%20a%20respeito%20de%20um%20problema%20que%20venho%20tendo.%0A" "Entre em Contato" >}}
-
+{{< button "docs/compose/" "Read the Docs" >}}{{< button "https://github.com/onweru/compose" "Download Theme" >}}
 {{< /column >}}
 
 {{< column >}}
-![diy](images/home/home-picture.png)
+![diy](/images/scribble.jpg)
 {{< /column >}}
 {{< /block >}}

@@ -1,24 +1,25 @@
+#  menu items
 [[main]]
-  name = "Serviços"
-  weight = 1
-  url = "services/"
-
-[[main]]
-  name = "Contatos"
-  weight = 2
-  url = "contacts/"
-
-[[main]]
-  name = "Redes Sociais"
-  weight = 3
-  url = "networks/"
-
-[[main]]
-  name = "Cartão de Visita"
-  weight = 4
-  url = "download/"
-
-[[main]]
-  name = "Sobre"
+  name = "Blog"
   weight = 5
-  url = "about/"
+  url = "blog/"
+
+[[main]]
+  name = "Docs"
+  weight = 2
+  url = "docs/"
+
+[[main]]
+  name = "Tutorials"
+  weight = 2
+  url = "tutorials/"
+
+[[main]]
+  name = "Example"
+  weight = 3
+  url = "https://docs.neuralvibes.com"
+
+# [[main]]
+#   name = "Blog"
+#   weight = 4
+#   url = "blog/"
