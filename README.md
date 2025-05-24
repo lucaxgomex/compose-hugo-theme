@@ -1,28 +1,43 @@
-# Compose
+# Lunix Go | Suporte Técnico
 
-Compose is a [Hugo](https://gohugo.io/) theme for documentation websites. The theme provides a simple navigation & structure.
+O projeto a seguir refere-se a uma solução de desenvolvimento voltada para um negócio de reparo de equipamento eletrônicos. Trata-se, portanto, de um site por meio do qual é possível ter acessos aos serviços, ao preço e ao responsável pela empresa.
+
+Para sua construção, foi realizado as seguinte ferramentas:
+
+-Flowcharts, Piecharts, doughnut & bar charts support [Hugo Framework](https://gohugo.io/)
+
+- [Compose Theme](https://themes.gohugo.io/themes/compose/)
+
+- [Netlify](https://www.netlify.com/)
 
 ![Hugo Compose Theme](https://raw.githubusercontent.com/onweru/compose/master/images/tn.png)
 
-## Features
+### Seções
 
-1. Documentation
-2. Gallery Support
-3. Native lazy loading of images
-4. Live search
-5. Flowcharts, Piecharts, doughnut & bar charts support
-6. Searchable & Sortable tables
-7. Syntax highlighting
-8. Mermaid Support
+1. Serviços
 
-## Documentation
+```
+Será disponibilizado uma tabela com os respectivos valores referentes aos serviços oferecidos. São estes:
 
-- [Install Compose theme](https://composedocs.netlify.app/docs/compose/install-theme/)
-- [Use Tina CMS](https://composedocs.netlify.app/docs/compose/use-tina-cms/)
-- [Customize your site](https://composedocs.netlify.app/docs/compose/customize/)
-- [Configure search](https://composedocs.netlify.app/docs/compose/search/)
-- [Shortcodes](https://composedocs.netlify.app/docs/compose/shortcodes/)
-- [Mermaid](https://composedocs.netlify.app/docs/compose/mermaid/)
+    1.1. Suporte para computadores;
+    1.2. Suporte para celulares;
+    1.3. Suporte para impressora; 
+    1.4. Suporte para rede;
+    1.5. Medidas de segurança;
+    1.6. Desenvolvimento.
+```
+
+2. Contatos
+
+```
+Estará disponível o contato da equipe técnica responsável pela solicitação.
+```
+
+3. Redes Sociais
+
+4. Cartão de Visita
+
+5. Sobre
 
 ## ExampleSite
 
@@ -37,13 +52,6 @@ git clone --recurse-submodules --depth 1 https://github.com/onweru/compose.git
 cd compose/exampleSite/
 hugo server --themesDir ../..
 ```
-
-### Also built by Weru
-
-1. [Clarity Theme](https://github.com/chipzoller/hugo-clarity)
-2. [Newsroom Theme](https://github.com/onweru/newsroom)
-3. [Swift Theme](https://github.com/onweru/hugo-swift-theme)
-4. [Browse Theme](https://github.com/onweru/browse)
 
 ## License
 
