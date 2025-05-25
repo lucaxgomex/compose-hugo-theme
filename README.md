@@ -4,7 +4,7 @@ O projeto a seguir refere-se a uma solução de desenvolvimento voltada para um 
 
 Para sua construção, foi realizado as seguinte ferramentas:
 
--Flowcharts, Piecharts, doughnut & bar charts support [Hugo Framework](https://gohugo.io/)
+- [Hugo Framework](https://gohugo.io/)
 
 - [Compose Theme](https://themes.gohugo.io/themes/compose/)
 
