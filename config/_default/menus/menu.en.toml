@@ -6,7 +6,7 @@
 [[main]]
   name = "Contatos"
   weight = 2
-  url = "contacts/"
+  url = "blog/"
 
 [[main]]
   name = "Redes Sociais"
@@ -16,7 +16,7 @@
 [[main]]
   name = "Cartão de Visita"
   weight = 4
-  url = "download/"
+  url = "/download/download.pdf" 
 
 [[main]]
   name = "Sobre"

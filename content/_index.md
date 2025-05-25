@@ -19,7 +19,6 @@ title = "Projects"
 Somos especialistas em reparo e manutenção de computadores, e estamos aqui para ajudar você a resolver qualquer problema técnico com rapidez e eficiência.
 {{< /tip >}}
 
-
 {{< tip >}}
 Oferecemos diagnósticos rápidos, reparos eficientes e atualizações de hardware para garantir o máximo desempenho. Não deixe problemas técnicos atrapalharem seu dia.
 {{< /tip >}}
