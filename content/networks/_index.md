@@ -11,10 +11,6 @@ Prezados clientes e futuros parceiros,
 
 <!-- That content is better than dummy lorem ipsum 2) That content serves a good real-world demo for this theme 3) Publish more structured docs for each theme which are better than long blocky READMEs -->
 
-{{< button "https://www.w3schools.com/cssref/playdemo.php?filename=playcss_display&preval=block" "WhatsApp" "mb-2" >}}
-
-
-{{< button "./compose/" "E-mail" "mb-2" >}}
 
 {{< button "./compose/" "Linkedin" "mb-2" >}}
 
@@ -28,7 +24,6 @@ Prezados clientes e futuros parceiros,
 
 {{< button "./compose/" "Linktree" "mb-2" >}}
 
-{{< button "./compose/" "Compose Theme Docs" "mb-1" >}}
+<!--{{< button "./compose/" "Compose Theme Docs" "mb-1" >}}-->
 
-{{< button "./clarity/" "Clarity Theme Docs" >}}
-
+<!--{{< button "./clarity/" "Clarity Theme Docs" >}}-->

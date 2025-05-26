@@ -6,7 +6,7 @@
 [[main]]
   name = "Contatos"
   weight = 2
-  url = "blog/"
+  url = "contacts/"
 
 [[main]]
   name = "Redes Sociais"
