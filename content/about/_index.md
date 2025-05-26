@@ -9,7 +9,7 @@ acalma-se; mas embora se satisfaça um, quantos permanecem insaciados!
 
 
 {{< column >}}
-![diy](/images/profile/profile.png)    
+![diy](/images/profile/Face-modified.png)    
 {{< /column >}}
 
 Saudações a todos!
