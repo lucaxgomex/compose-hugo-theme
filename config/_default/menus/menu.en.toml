@@ -1,0 +1,24 @@
+[[main]]
+  name = "Serviços"
+  weight = 1
+  url = "services/"
+
+[[main]]
+  name = "Contatos"
+  weight = 2
+  url = "contacts/"
+
+[[main]]
+  name = "Redes Sociais"
+  weight = 3
+  url = "networks/"
+
+[[main]]
+  name = "Cartão de Visita"
+  weight = 4
+  url = "/download/download.pdf" 
+
+[[main]]
+  name = "Sobre"
+  weight = 5
+  url = "about/"
