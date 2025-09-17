@@ -14,7 +14,7 @@ acalma-se; mas embora se satisfaça um, quantos permanecem insaciados!
 
 Saudações a todos!
 
-Comemei minha carreira como programador. Contudo, começar a estudar a área de redes de computadores, migrei para a área de suporte e assitência técnicas em busca de novas oportunidades e posso garantir que me encontrei na área. Estou no ramo desde 2021.
+Comecei minha carreira como programador. Contudo, começar a estudar a área de redes de computadores, migrei para a área de suporte e assitência técnicas em busca de novas oportunidades e posso garantir que me encontrei na área. Estou no ramo desde 2021.
 
 Desde o início da minha trajetória na tecnologia, sempre fui apaixonado por solucionar problemas e criar soluções eficientes. Comecei minha carreira como programador, desenvolvendo sistemas e aprimorando minhas habilidades em diversas linguagens de programação. Com o tempo, percebi que além de escrever códigos, minha verdadeira vocação era garantir que pessoas e empresas tivessem suporte tecnológico de qualidade e confiança.  
 

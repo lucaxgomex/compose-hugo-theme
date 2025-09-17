@@ -16,7 +16,8 @@
 [[main]]
   name = "Cartão de Visita"
   weight = 4
-  url = "/download/download.pdf" 
+  # url = "/download/business.jpg" 
+  url = "download/" 
 
 [[main]]
   name = "Sobre"
