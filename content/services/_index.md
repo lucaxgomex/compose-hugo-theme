@@ -174,6 +174,36 @@ Na <span style="color:#5aca48">LunixGo</span>, utilizamos a tecnologia para trab
 
 - Demais demandas: <span style="color:#5aca48">Valor a combinar</span>
 
+
+<center>
+    <h2>
+        <span style="color:#5aca48">Venda</span>
+    </h2>
+</center>
+
+- Venda de HD (500GB / 1TB): <span style="color:#5aca48">R$ 65,00</span>
+
+- Venda de SSD: <span style="color:#5aca48">R$ 80,00</span>
+
+- Venda de cabos: <span style="color:#5aca48">R$ 12,50</span>
+
+{{< tip "warning" >}}
+
+Prezado(a) cliente,
+
+Atualmente, estamos oferecendo somente as seguintes tipagens de cabos:
+
+- Ethernet - RJ45;
+
+- Cabo de fonte;
+
+- Cabo USB-C.
+
+Ao que tange equipamentos de armazenamento, gostaríamos de declarar que, até o dado momento, *NÃO* estamos realizando a venda de NVNe ou mesmo _cases_ de proteção dos mesmos.
+
+
+{{< /tip >}}
+
 <center>
     <h2>
         <span style="color:#5aca48">Demais atividades</span>

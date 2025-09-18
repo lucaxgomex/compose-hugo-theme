@@ -1,6 +1,13 @@
 {{- define "main"}}
 <main>
-  <h1 id="title">Not found</h1>
-  <p>Bummer! This page doesn't exist. <a href='{{ absURL "" }}'>back home</a>.</p>
+  <h1 id="title" style="color:#5aca48">Erro 404</h1>
+  <center>
+    <p>
+      Pedimos perdão por este transtorno. Observamos que a página que você está tentando acessar não foi desenvolvida ainda ou está em manutenção pela nossa equipa interna.
+    </p>
+    <p>
+      Pedimos que, enquanto isso, você <a style="color:#5aca48" href='{{ absURL "" }}'>clique aqui</a> para retornar até a página principal.
+    </p>
+  </center>
 </main>
 {{- end }}

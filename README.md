@@ -39,7 +39,7 @@ Estará disponível o contato da equipe técnica responsável pela solicitação
 
 5. Sobre
 
-## ExampleSite
+## Guide
 
 The [exampleSite](https://github.com/onweru/compose/tree/master/exampleSite) serves as this theme's [user guide](https://composedocs.netlify.app/docs/compose/install-theme/) .
 
