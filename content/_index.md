@@ -25,13 +25,13 @@ Oferecemos diagnósticos rápidos, reparos eficientes e atualizações de hardwa
 
 {{< tip >}}
 
-Para agendar um atendimento ou tirar suas dúvidas, basta acessar a aba de [Serviços](http://localhost:1313/services/) para averiguar nosso valores.
+Para agendar um atendimento ou tirar suas dúvidas, basta acessar a aba de [Serviços](/services/) para averiguar nosso valores.
 
 {{< /tip >}}
 
 {{< tip >}}
 
-Clique na aba de <span style="color:#5aca48">Cartão de Vista</span> para realizar o _download_ de um de nossos cartões virtuais.
+Clique na aba de [Cartão de Vista](/download/) para realizar o _download_ de um de nossos cartões virtuais.
 
 Caso queira compartilhá-lo com alguns conhecidos, ficaremos agradecidos!
 

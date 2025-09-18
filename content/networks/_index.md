@@ -11,16 +11,15 @@ Prezados clientes e futuros parceiros,
 
 <!-- That content is better than dummy lorem ipsum 2) That content serves a good real-world demo for this theme 3) Publish more structured docs for each theme which are better than long blocky READMEs -->
 
+ {{< button "https://www.linkedin.com/in/lucas-gomes-7a6a091b4" "LinkedIn" "mb-2" >}}
 
-{{< button "./compose/" "Linkedin" "mb-2" >}}
-
-{{< button "./compose/" "GitHub" "mb-2" >}}
+{{< button "https://github.com/lucaxgomex" "GitHub" "mb-2" >}}
 
 {{< button "./compose/" "Dev.to" "mb-2" >}}
 
 {{< button "./compose/" "Hackerrank" "mb-2" >}}
 
-{{< button "./compose/" "Medium" "mb-2" >}}
+{{< button "https://medium.com/@gomeslucastech" "Medium" "mb-2" >}}
 
 {{< button "./compose/" "Linktree" "mb-2" >}}
 

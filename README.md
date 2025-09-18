@@ -10,7 +10,7 @@ Para sua construção, foi realizado as seguinte ferramentas:
 
 - [Netlify](https://www.netlify.com/)
 
-![Hugo Compose Theme](https://raw.githubusercontent.com/onweru/compose/master/images/tn.png)
+![Hugo Compose Theme](images/screenshot.png)
 
 ### Seções
 
