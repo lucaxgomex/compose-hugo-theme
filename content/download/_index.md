@@ -23,9 +23,9 @@ weight = 1
   }
 </style>
 
-<a href="/download/business.jpg" download>
+<a href="/download/Lunix.pdf" download>
   <span class=contacts-container>
-     <img src="/download/business.jpg" alt="Downloadable Business Card"> 
+     <img src="/download/Frente.png" alt="Downloadable Business Card"> 
      <button class="button"> Download </button>
   </span>
 </a>
